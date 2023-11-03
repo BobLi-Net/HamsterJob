@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>net70</TargetFrameworks>
+	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <Authors>Qingrui、BobLi-Net</Authors>
+	  <Description>轻量易用的分布式任务系统</Description>
+  </PropertyGroup>
+	<!--
+	<ItemGroup>
+		<None Include="../logo.png" Pack="true" PackagePath="\" />
+	</ItemGroup>
+	-->
+</Project>
